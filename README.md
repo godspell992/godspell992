@@ -16,6 +16,19 @@
 />
 
   </div><br/>
+  <div>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5a2lld293NTVkcTdqODE2ZXIzMmIxaXhzeXE5MnJ2NDB3YXIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gbQIeNzZxcSk/giphy.gif" alt="Minha Imagem">
+    <br>
+  </div>
+  
+  <div>
+    <h1>information about me</h1>
+    <br>
+    ➳ ultimo ano de desenvolvimento de sistemas 
+    <hr>
+    ➳ membro premio do <a href="https://onebitcode.com/">OneBitCode</a>
+    
+  </div>
+
 </body>
 </html>
