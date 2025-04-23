@@ -3,6 +3,6 @@
   <title>sou baitola</title>
 </head>
 <body>
-  <img src="https://mylivewallpapers.com/cute/anime-girl-with-kittens-live-wallpaper/#google_vignette" alt="Minha Imagem">
+  <img src="https://tenor.com/pt-BR/view/embarrassed-shy-anime-girl-blush-gif-26509030" alt="Minha Imagem">
 </body>
 </html>
