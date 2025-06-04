@@ -17,7 +17,7 @@
 
   </div><br/>
   <div>
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5a2lld293NTVkcTdqODE2ZXIzMmIxaXhzeXE5MnJ2NDB3YXIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gbQIeNzZxcSk/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhsM3RneWdxbXRrbWlpN2V0emZ4ZXU1c3psZWZ2eGhkZmhqYzkxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OjjOPhVoalJLO/giphy.gif)" alt="Minha Imagem">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhsM3RneWdxbXRrbWlpN2V0emZ4ZXU1c3psZWZ2eGhkZmhqYzkxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OjjOPhVoalJLO/giphy.gif">
     <hr>
   </div>
   
