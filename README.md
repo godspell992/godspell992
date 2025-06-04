@@ -27,7 +27,7 @@
     <br>
     ➳ membro premio do <a href="https://onebitcode.com/">OneBitCode</a>
     <br>
-    ➳ curso comprado "full html,css,javaScript"
+    ➳ curso comprado "full html,css,javaScript, node.js, SQL, python"
   </div>
 
 </body>
