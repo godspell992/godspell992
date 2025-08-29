@@ -14,7 +14,7 @@
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="Y2lkPTc5MGI3NjExYXBuajYxNWI2dnh2ZnpnZmR5Zm94aWsxYmVlenNxdDdzdjF2ZWZjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" 
 />
 
   </div><br/>
