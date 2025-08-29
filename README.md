@@ -3,12 +3,7 @@
   <h2>my skills</h2>
   <br>
   <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" width="250" height="30" />
-
-  <img 
+    <img 
     align="left" 
     alt="Python" 
     title="Python"
@@ -16,6 +11,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="MySql" src="https://www.seekpng.com/png/detail/269-2693074_mysql-logo-png-transparent-mysql-php.png" width="100"
+  height="45" />
+  <img align="center" alt="SqlLite" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATQ5jq15VLk1upQV8mw7t6SKRh1bAfWbDyg&s" width="100"
+  height="45" /> />
+  <img align="center" alt="MySql" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQl7Vb1cN5wuA-_EBEaVP9zll9VE3xtRn1A&s" width="150"
+  height="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" width="250" height="30" />
+
+
 
   </div><br/>
   <div>
